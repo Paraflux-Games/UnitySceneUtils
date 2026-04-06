@@ -6,7 +6,7 @@
     "url": "https://paraflux.games/"
   },
   "version": "1.0.0",
-  "unity": "6000.3.12f1",
+  "unity": "6000.3",
   "description": "Provides stateful dynamic scene loading with parameters.",
   "keywords": [
     "Paraflux Games",
