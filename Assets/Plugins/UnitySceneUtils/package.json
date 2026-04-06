@@ -15,7 +15,16 @@
   ],
   "license": "MIT",
   "category": "Utils",
+  "scopedRegistries": [
+    {
+      "name": "UniTask",
+      "url": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
+      "scopes": [
+        "com.cysharp.unitask"
+      ]
+    }
+  ],
   "dependencies": {
-    "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask#2.2.5"
+    "com.cysharp.unitask": "2.2.5"
   }
 }
