@@ -25,6 +25,6 @@
     }
   ],
   "dependencies": {
-    "com.cysharp.unitask": "2.2.5"
+    "com.cysharp.unitask": "2.5.10"
   }
 }
